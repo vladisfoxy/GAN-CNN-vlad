@@ -1,0 +1,5 @@
+train: /content/dataset/train/images
+val: /content/dataset/valid/images
+
+nc: 6
+names: ["car", "threewheel", "bus", "truck", "motorbike", "van"]
